@@ -1,0 +1,8 @@
+Proof of concept code for interacting with Mac OSX's main thread & run-loop.
+
+You can import the package if you want, but its main purpose is to serve as
+documentation. Comments are spread between osx.go, osx.m, and test/test.go.
+They include references so you don't have to rely entirely on the word of a
+complete OSX newbie (me! :) ).
+
+Code is public domain. Adapt it as you see fit and share the results if you like.
